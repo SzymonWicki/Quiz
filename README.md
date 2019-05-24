@@ -19,3 +19,9 @@
 * Vehicles
 
 ## How to play - Running the Project Locally
+
+### First, clone the repository to your local machine:
+
+```bash
+https://github.com/SzymonWicki/Quiz.git
+```
