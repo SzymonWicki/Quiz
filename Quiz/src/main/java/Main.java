@@ -103,7 +103,7 @@ public class Main {
                 badlyAnsweredQuestionsWithCorrectAnswers.add("Question - \"" + quizList.get(i).getQuestion() + "\" - Right answer is - " + rightAnswer);
             }
         }
-        System.out.println("Number of right anwers is " + goodAnswerCounter);
+        System.out.println("Number of right anwsers is " + goodAnswerCounter);
         System.out.println("Look in what questions You have wrong answers:");
         for (String badlyAnsweredQuestionsWithCorrectAnswer : badlyAnsweredQuestionsWithCorrectAnswers) {
             System.out.println(badlyAnsweredQuestionsWithCorrectAnswer);
